@@ -1,3 +1,7 @@
+/* Here we have the builder design pattern,
+which can help us construct a struct in a functional manner also given us
+the chance of creating the said struct, "part-by-part"*/
+
 package builder
 
 type Employee struct {
