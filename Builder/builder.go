@@ -1,4 +1,4 @@
-package Builder
+package builder
 
 type Employee struct {
 	Name      string
