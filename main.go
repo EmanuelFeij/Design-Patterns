@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/EmanuelFeij/Design-Paterns/builder"
+	"github.com/EmanuelFeij/Design-Patterns/builder"
 )
 
 func main() {
